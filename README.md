@@ -1,2 +1,4 @@
-# Discord_Themes_and_Plugins
-Bowilla's themes and plugins for Better Discord
+# Bowilla's Better Discord Themes and Plugins
+
+Check this repo out for themes and plugins that may be added
+
